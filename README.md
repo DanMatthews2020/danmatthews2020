@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I’m Dan
 
-<!--
-**DanMatthews2020/danmatthews2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build ATS systems & AI products.
 
-Here are some ideas to get you started:
+## 🚀 What I’m working on
+- 🔧 ATS (Applicant Tracking System) – TypeScript-based hiring platform
+- 🧠 Exploring AI in recruitment workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech stack
+- TypeScript / Node.js
+- React (if true)
+- APIs & backend systems
+
+## 📈 What I care about
+- Building useful, real-world products
+- Speed > perfection
+- Shipping consistently
+
+## 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/daniel-matthews-30061b163/
+
+## 📫 Reach me
+DMs open / email: Dan@ordio.com
