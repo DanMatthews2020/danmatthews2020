@@ -8,11 +8,11 @@ I build ATS systems & AI products.
 
 ## 🛠 Tech stack
 - TypeScript / Node.js
-- React (if true)
+- React & Next.js
 - APIs & backend systems
 
 ## 📈 What I care about
-- Building useful, real-world products
+- Building useful, real world HR & AI products
 - Speed > perfection
 - Shipping consistently
 
