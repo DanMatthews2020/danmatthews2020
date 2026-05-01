@@ -9,7 +9,7 @@ I build ATS systems & AI products.
 ## 🛠 Tech stack
 - TypeScript / Node.js
 - React & Next.js
-- APIs & backend systems
+- APIs & backend systems (oh & Claude 🤖👨‍💻)
 
 ## 📈 What I care about
 - Building useful, real world HR & AI products
